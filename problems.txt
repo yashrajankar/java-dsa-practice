@@ -1,0 +1,95 @@
+Find an element in an array
+Search a character in a string
+Find maximum element in array
+Find minimum element in array
+Count occurrences of a number
+Find sum of all elements
+Find average of array elements
+Count even numbers in array
+Count odd numbers in array
+Find first negative number
+Easy-Intermediate Level
+
+
+
+
+Find first occurrence of target
+Find last occurrence of target
+Find all occurrences of target
+Check whether array is sorted
+Reverse traverse an array
+Find largest string in array
+Find smallest string in array
+Search element in 2D array
+Find row with maximum sum
+Count positive and negative numbers
+Intermediate Level
+Find duplicate elements
+Find unique element
+Find second largest element
+Find second smallest element
+Find missing number in array
+Find majority element
+Count prime numbers in array
+Print all prime numbers from array
+Count vowels in string
+Find longest word in sentence
+Matrix-Based Linear Traversal
+Search element in matrix
+Find maximum element in matrix
+Find minimum element in matrix
+Sum of all matrix elements
+Print diagonal elements
+Count even numbers in matrix
+Find row with largest sum
+Find column with largest sum
+String Traversal Problems
+Count frequency of character
+Find first non-repeating character
+Find duplicate characters
+Count words in sentence
+Reverse a string manually
+Check palindrome string
+Count uppercase/lowercase letters
+Logic Building Problems
+Count numbers divisible by 3
+Find Armstrong numbers in array
+Find perfect numbers in array
+Find factorial of each element
+Find Fibonacci numbers in array
+Popular Interview Linear Search Questions
+Two Sum (brute force)
+Richest Customer Wealth
+Find Numbers with Even Number of Digits
+Maximum Subarray (brute force)
+Best Time to Buy and Sell Stock
+Product of Array Except Self (brute force)
+Container With Most Water (brute force)
+Frequently Asked College Viva Questions
+What is linear search?
+What is time complexity of linear search?
+What is best case in linear search?
+What is worst case in linear search?
+Difference between linear and binary search
+When should we use linear search?
+Advantages of linear search
+Limitations of linear search
+Most Important Practice Questions
+
+If you want strong basics, practice these first:
+
+Search target
+Max/min element
+Count frequency
+Search in string
+Search in 2D array
+Find duplicates
+Find unique element
+Missing number
+Majority element
+Largest string problem
+Get smarter responses, upload files and
+
+
+
+
